@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#a591ef</color>
+    <color name="colorPrimaryDark">#4f35ae</color>
+    <color name="colorAccent">#4f35ae</color>
+    <color name="progressBar">#a591ef</color>
+
+    <color name="black_overlay">#66000000</color>
+</resources>
