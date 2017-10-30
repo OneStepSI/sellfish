@@ -1,2 +1,2 @@
 # sellfish
-is a marketplace for fisherman
+is a marketplace for fisherman in Jember
